@@ -2,6 +2,10 @@
 Dashboard 1
 **Sales Performance Dashboard | Power BI**
 
+<img width="1166" height="697" alt="image" src="https://github.com/user-attachments/assets/e1da710d-bc3d-4617-b9aa-d4f88734f664" />
+
+
+
 An interactive Power BI dashboard designed to explore sales performance across products, categories, customers, countries, and time.
 
 **Project overview**
